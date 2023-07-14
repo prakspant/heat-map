@@ -1,0 +1,15 @@
+#heatmap {
+  position: relative;
+}
+
+#tooltip {
+  position: absolute;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  pointer-events: none;
+}
+
+.axis text {
+  font-size: 12px;
+}
